@@ -5,4 +5,4 @@
 ![alt text](https://github.com/SukruGokk/python-color-detector/blob/master/mixed.jpg)
 
 (EN) Result / (TR) Sonuç
-![alt text](https://github.com/SukruGokk/python-color-detector/blob/master/mixed.jpg)
+![alt text](https://github.com/SukruGokk/python-color-detector/blob/master/mixedResult.jpg)
